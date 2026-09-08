@@ -1,2 +1,2 @@
 # DAYKA-Flowers
-Empresa ecuatoriana de flores de exportación 
+Página web oficial de DAYKA Flowers
